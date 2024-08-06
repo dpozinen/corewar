@@ -1,5 +1,5 @@
 # corewar
-A reproduction of the Core War game. A project by a group of four. Original repository [here](github.com/ollevche/corewar)
+A reproduction of the Core War game. A project by a group of four. Original repository [here](http://github.com/ollevche/corewar)
 
 The point of this project is to create a VM and a compiler for the players. <br>
 Players are literal code that is compiled and placed on the map for execution by the vm. <br>
